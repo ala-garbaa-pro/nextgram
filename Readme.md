@@ -2,6 +2,10 @@
 
 This is a sample Next.js application that takes advantage of the advanced routing capabilities.
 
+👍 If you are looking for the TypeScript version, please check out this repository: [next-gram-ts](https://github.com/ala-garbaa-pro/next-gram-ts).
+
+
+
 The photo route can be attached to _two distinct_ components:
 
 1. When navigating within the application, it is rendered as a modal
